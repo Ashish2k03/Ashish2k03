@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ashish2k03
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Tiwari Ashish!
+- 👀 I’m interested in Ethical Hacking.
+- 🌱 I’m currently learning about computer networking and python.
 - 📫 How to reach me, here is my email address iamashishtiwari203@gmail.com
   
 
