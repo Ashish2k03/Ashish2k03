@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tiwari Ashish!
-- 👀 I’m interested in Ethical Hacking.
-- 🌱 I’m currently learning about computer networking and python.
-- 📫 How to reach me, here is my email address iamashishtiwari203@gmail.com
+- 👋 Hi, I’m Ashish Tiwari!
+- 👀 I’m passionate about web development.
+- 🌱 Currently, I’m building new projects and exploring new technologies every day.
+- 📫 Feel free to reach out to me at iamashishtiwari203@gmail.com.
   
 
 <!---
